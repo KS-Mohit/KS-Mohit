@@ -1,8 +1,8 @@
 # About
 
 Hi, I'm **Mohit Kumar** — I completed my undergraduation in Computer Science (B.Tech) from SRM University.  
-I’m passionate about building AI/ML systems, semantic search applications, and data-driven tools that solve real-world problems.  
-Beyond tech, I enjoy exploring NLP, data visualization, and learning about large language models.
+I love exploring the world of AI and machine learning — from building automation tools to experimenting with generative models.  
+I'm always curious about how things work under the hood, and I enjoy exploring new ideas, building projects, and learning new skills.
 
 <!-- You can find my portfolio and projects here → [MAKE A PORTFOLIO WEBSITE) -->
 
@@ -42,7 +42,7 @@ Beyond tech, I enjoy exploring NLP, data visualization, and learning about large
 ## Social
 
 - [LinkedIn](https://www.linkedin.com/in/ks-mohit)
-- [Kaggle](https://www.kaggle.com) *(add your actual profile if available)*
-- [Google Scholar](https://scholar.google.com) *(add your actual profile if available)*
+<!--- [Kaggle](https://www.kaggle.com) *(add your actual profile if available)*
+- [Google Scholar](https://scholar.google.com) *(add your actual profile if available)* -->
 
 ---
