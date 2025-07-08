@@ -13,7 +13,7 @@ I'm always curious about how things work under the hood, and I enjoy exploring n
 
 ## Working History
 
-- **Data Science Intern**, [Labmentix](https://labmentix.com) (May 2025 – July 2025) 
+- **Data Science Intern**, [Labmentix](https://www.labmentix.in/) (May 2025 – July 2025) 
 
 ---
 
