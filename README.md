@@ -1,6 +1,6 @@
 # About
 
-Hi, I'm **Mohit Kumar** — I completed my undergraduation in Computer Science (B.Tech) from SRM University.  
+Hi, I'm **Mohit Kumar** — I completed my undergraduation in Computer Science & Engineering from SRM University.  
 I love exploring the world of AI and machine learning — from building automation tools to experimenting with generative models.  
 I'm always curious about how things work under the hood, and I enjoy exploring new ideas, building projects, and learning new skills.
 
