@@ -6,7 +6,6 @@ I'm always curious about how things work under the hood, and I enjoy exploring n
 
 <!-- You can find my portfolio and projects here → [MAKE A PORTFOLIO WEBSITE) -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ks-mohit)
 [![Email](https://img.shields.io/badge/Email-5102mohit@gmail.com-informational?style=flat)](mailto:5102mohit@gmail.com)
 
 ---
