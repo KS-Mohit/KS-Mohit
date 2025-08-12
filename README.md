@@ -12,6 +12,7 @@ I'm always curious about how things work under the hood, and I enjoy exploring n
 
 ## Working History
 
+- **Data Scientist**, [BlackCoffer](https://www.blackcoffer.com/) (August 2025 – Present) 
 - **Machine Learning Intern**, [Labmentix](https://www.labmentix.in/) (May 2025 – July 2025) 
 
 ---
