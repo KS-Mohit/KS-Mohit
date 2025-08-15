@@ -57,7 +57,7 @@ I'm always curious about how things work under the hood, and I enjoy exploring n
 
 ## Social
 
-- [LinkedIn](https://www.linkedin.com/in/ks-mohit)
+[LinkedIn](https://www.linkedin.com/in/ks-mohit)
 <!--- [Kaggle](https://www.kaggle.com) *(add your actual profile if available)*
 - [Google Scholar](https://scholar.google.com) *(add your actual profile if available)* -->
 
