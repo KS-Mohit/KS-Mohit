@@ -1,8 +1,6 @@
 # About
 
 Hi, I'm **Mohit Kumar**. I like deep neural nets, generative models, and building intelligent systems that solve problems.  
-I love exploring the world of AI and machine learning, from building automation tools to crafting creative, data-driven systems.  
-I'm always curious about how things work under the hood, and I enjoy exploring new ideas, building projects, and learning new skills.
 
 <!-- You can find my portfolio and projects here → [MAKE A PORTFOLIO WEBSITE) -->
 
