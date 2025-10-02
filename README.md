@@ -1,9 +1,3 @@
-# About
-
-Hi, I'm **Mohit Kumar**. I like deep neural nets, generative models, and building intelligent systems that solve problems.  
-
----
-
 ## Working History
 
 - **Data Scientist**, [Blackcoffer](https://www.blackcoffer.com/) (August 2025 – Present) 
